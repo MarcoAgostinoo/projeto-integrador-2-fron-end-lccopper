@@ -70,7 +70,7 @@ const Footer = () => {
               <span style={{ fontSize: '14px', color: '#FFFFFF' }}>
                 LC Copper Metalúrgica Eireli. Desenvolvido por:  
                 <Link href="#" target="_blank" style={{ color: '#FFFFFF' }}>
-                    AceleraçãoWeb
+                    ProjetoIntegrador2-Univesp
                 </Link>
               </span>
             </div>
